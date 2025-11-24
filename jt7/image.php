@@ -1,0 +1,1 @@
+'image' => 'https://cdn0-production-images-kly.akamaized.net/CKBwr73tZD7294UwaQ-Zh6quils=/500x281/smart/filters:quality(75):strip_icc()/kly-media-production/medias/2510125/original/061516100_1543494559-Kawasan_Pabrik_Gula_Jatitujuh.jpg',
